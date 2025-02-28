@@ -1,0 +1,4 @@
+VAO VERTEX-ARRAY-OBJECT:
+    A vertex array. Basically a bunch of positions for verticies.
+VBO VERTEX-BUFFER-OBJECT:
+    A place in the GPU to store floats (what for???)
